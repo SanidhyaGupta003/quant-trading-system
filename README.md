@@ -25,3 +25,23 @@ This project implements a multi-asset quantitative trading system using Python. 
 - Mean reversion underperformed in trending markets
 
 ## Project Structure
+quant_project/
+│
+├── data/
+├── strategies/
+├── backtester/
+├── portfolio/
+├── utils/
+├── main.py
+
+## Installation
+```bash
+pip install -r requirements.txt
+
+## Usage
+python main.py
+
+## Future Improvements
+- Machine learning-based signals
+- Regime detection
+- Real-time data integration
