@@ -33,15 +33,3 @@ quant_project/
 ├── portfolio/
 ├── utils/
 ├── main.py
-
-## Installation
-```bash
-pip install -r requirements.txt
-
-## Usage
-python main.py
-
-## Future Improvements
-- Machine learning-based signals
-- Regime detection
-- Real-time data integration
